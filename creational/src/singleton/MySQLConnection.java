@@ -49,5 +49,4 @@ public class MySQLConnection {
     public String getDatabaseName() {
         return databaseName;
     }
-
 }
