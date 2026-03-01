@@ -1,5 +1,8 @@
 package singleton;
 
+/**
+ * Thread safe, no syncronization overhead
+ */
 public class MySQLConnectionII {
     private MySQLConnectionII(){}
     private static class Holder{
