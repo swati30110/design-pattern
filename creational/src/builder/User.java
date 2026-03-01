@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.UUID;
 
-public class User {
+public final class User {
     private String id;
     private String username;
     private String email;
