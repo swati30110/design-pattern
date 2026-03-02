@@ -1,9 +1,9 @@
-package composite;
+package composite.example1;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Folder implements FileSystemComponent{
+public class Folder implements FileSystemComponent {
     private String name;
     private List<FileSystemComponent> children = new ArrayList<>();
 

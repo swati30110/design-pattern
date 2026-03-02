@@ -1,6 +1,6 @@
-package composite;
+package composite.example1;
 
-public class File implements FileSystemComponent{
+public class File implements FileSystemComponent {
     String name;
     File(String name){
         this.name = name;
