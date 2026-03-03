@@ -15,6 +15,5 @@ public class Main {
 
         comment1.display("");
         comment2.display("");
-
     }
 }
